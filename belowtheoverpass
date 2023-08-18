@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<title>slanted city</title>
+		<style>
+			body{
+			background-color: #ADD8E6;
+			color: #154734;
+			font-family: Garamond;
+			padding: 50px;
+			margin-right: 300px;	
+			margin-left: 300px;
+			
+			border-bottom:15px solid transparent;
+  			padding: 60px;
+ 			border-image: url(docs/assets/slopedcityfooter.png) 50 round;
+			}
+			
+			@media only screen and (max-width: 950px) {
+ 				body{
+				padding: 50px;
+				margin-right: 10px;	
+				margin-left: 10px;
+  				}
+			}
+		</style>
+		
+	</head>
+	<body>
+		<nav color: #FF0000>
+  		<a href="https://www.post-ecocide.xyz">1</a> |
+ 		 <a href="https://www.post-ecocide.xyz/slantedcity">2</a> |
+		</nav>
+		
+		<h3>below the overpass</h3>
+		
+		<p>Squinting up, concrete pillars divide the blue above.</p>
+		
+		
+	
+	</body>
+</html>
