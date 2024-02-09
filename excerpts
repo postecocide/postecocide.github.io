@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+	
+
+
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		
+		<title>excerpts</title>
+		<style>
+			body{
+			background-color: #00000;
+			color: #fffff;
+			font-family: 'Courier';
+			padding-left: 50px;
+			padding-right: 1200px;
+			margin-right: 100px;	
+			margin-left: 100px;
+			font-size: 12px;
+			font-weight: 550;
+			
+			border: 10px solid transparent;
+ 			border-image: url(docs/assets/border.png) 50 repeat;
+			}
+
+			@media only screen and (max-width: 950px) {
+ 				body{
+				padding: 50px;
+				margin-right: 10px;	
+				margin-left: 10px;
+  				}
+			}
+			
+			img {
+ 			max-width: 100%;
+  			height: auto;
+			}
+
+		</style>
+		
+	</head>
+	<body>
+		<nav>
+  	<a href="https://www.post-ecocide.xyz">1</a> |
+    <a href="https://www.post-ecocide.xyz/excerpts">1.1</a> |
+ 		<a href="https://www.post-ecocide.xyz/slantedcity">2</a> |
+		<a href="https://www.post-ecocide.xyz/belowtheoverpass">3</a> |
+		</nav>
+		
+		<h3>excerpts</h3>
+		
+		<p> With a groan and jolt, the machine begrudgingly awakens from its slumber, beginning its gradual ascent towards the upper internal chambers. Kicking up speed, Coach braces against the vibrating glass as the city sprawls before him, a burnt medley of sleek silver and molten concrete.</p>
+
+<p>'Ground level is for chumps.'</p>
+
+<p>Screams Cad Williams, gripping tightly onto his T-Cola, impossibly white smile beaming.</p>
+
+<p>'Elevate yourself.'</p>
+
+<p>Coach wasn't a fan of the guy, given the nature of his latest scandal, but the film and television star was inescapable; his high-profile sponsorships ensuring presence across every ad-screen, projected across every promotional surface; as if in compensation of his recent misdeeds. Coach at least found some pleasure in watching his perfectly engineered face warp across the reflective surface of neighbouring oval skyscraper.</p>
+
+<p>The externals had more ads than people nowadays, it seemed. Promo-space was ample and cheap, and target audiences could still see everything through the windows of the internal chambers.</p>
+
+<p>For those on the ground looking up, however, the displays were monstrous. Even the audio booming intermittently across the cityscape made travel a hellish experience.</p>
+
+<p>With superwide highways forming a network for automated transportation, and overground connectors linking one internal space to the next, most denizens of the city could live their whole life without stepping foot outside of their cool, sterile, and (most-importantly) air-conditioned skyscrapers. The closest some would get is an eyeful of the charred ground-level conditions from behind the safety of tempered windows when they forayed into the lower levels, or perhaps briefly through the apertures of an elevator as they descended into the Underground.</p>
+
+<p>The externals were *low*, the kind of place parents warned their children about, the place where uncivilised beasts still roamed the earth, where the sun shined organically onto filthy soil, and ground-level degens waited in the shadows to rob you for everything you had.</p>
+
+<p>However, perhaps distinctly because of this reputation, external travel was still the best way to get where you were going--circumventing the convoluted and recursive maze of internal tunnels and mall-space. In the commerce districts, spaces were designed to turn back onto themselves, trapping unsuspecting users into traffic patterns optimised for maximum consumption.</p>
+
+</body>
+</html>
